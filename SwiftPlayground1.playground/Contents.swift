@@ -34,3 +34,17 @@ print(regisThirdVarible)
 var appState = false
 
 print(appState)
+
+var numberOne = 13
+var numberTwo = 7
+
+var comparision = numberOne < numberTwo
+
+var myappState = true
+
+print(myappState)
+
+var numberThirty = 30
+var numberSix = 6
+
+var comparision2 = numberThirty > numberSix
