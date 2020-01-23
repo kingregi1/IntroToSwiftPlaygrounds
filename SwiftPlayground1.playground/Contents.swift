@@ -49,5 +49,18 @@ var numberSix = 6
 
 var comparision2 = numberThirty > numberSix
 
+var str3 = "Regi's PlayGround 2"
 
+var regisFirstVarible1: String
+
+
+regisFirstVarible1 = " All I Do is Win "
+
+//Declare and assign varible in single ling of code
+var regisSecondVarible1 = " And Win All The Time "
+
+
+var regisThirdVarible1 = regisFirstVarible1 + regisSecondVarible1
+
+print(regisThirdVarible1)
 
